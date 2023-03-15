@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["ES2021.String"],
+    "target": "es6"
+  }
+}

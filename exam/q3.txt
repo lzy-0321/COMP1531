@@ -1,0 +1,4 @@
+Continuous integration:
+Continuous integration is based on version control, with frequent code submission, automated builds, and unit testing to speed up integration cycles and problem feedback, thus verifying system availability in a timely manner
+Continuous delivery:
+Continuous delivery refers to the ability to continuously implement changes (including new features, bug fixes, configuration changes, experiments, etc.) into the production environment or into the hands of users safely, quickly, and with high quality

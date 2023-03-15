@@ -1,0 +1,18 @@
+{
+    "Leonardo": {
+      "age": 15,
+      "color": ["blue"]
+    },
+    "Donatello": {
+      "age": 15,
+      "color": ["purple", "green"]
+    },
+    "Raphael": {
+      "age": 10,
+      "color": []
+    },
+    "Michelangelo": {
+      "age": 15,
+      "color": ["green"]
+    }
+  }

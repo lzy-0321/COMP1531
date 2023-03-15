@@ -1,0 +1,1 @@
+Sum the number in the array a that can exact division b 
